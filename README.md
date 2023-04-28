@@ -8,7 +8,7 @@
 
 
 
-This repository contains implementations of popular ML Regression and Classification algorithms from scratch in Python, using only NumPy and built-in functions. The goal is to provide a deeper understanding of the underlying mathematics and concepts behind each algorithm. These implementations were designed for educational purposes and are not as efficient or robust as the ones provided by specialized libraries and can take a very, very long time to run.
+This repository contains implementations of popular ML Regression and Classification algorithms I built over the past few months from scratch in Python, using only NumPy and built-in functions. The goal is to provide a deeper understanding of the underlying mathematics and concepts behind each algorithm. These implementations were designed for educational purposes and are not as efficient or robust as the ones provided by specialized libraries and can take a very, very long time to run.
 
 # Algorithms
 
