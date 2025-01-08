@@ -1,6 +1,4 @@
 
-### By: Darien Nouri
----
 
 
 # Machine Learning Classification Algorithms from Scratch
